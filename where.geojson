@@ -327,5 +327,17 @@
         "coordinates": [ -87.570555, 33.210795 ]
       }
     }
+    {
+      "type": "Feature",
+      "properties":
+      {
+        "twitter" : "https://twitter.com/CutePetsCbus"
+      },
+      "geometry":
+      {
+        "type": "Point",
+        "coordinates": [ -82.9833, 39.9833 ]
+      }
+    }
 	]
 }
